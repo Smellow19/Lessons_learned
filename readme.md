@@ -6,3 +6,4 @@ So far I have learned
 2. Frontend Foundations
 3. Command Line
 4. and a few Quizzes
+5. git
